@@ -75,7 +75,7 @@ public class BookingServiceImpl implements IBookingService {
 
 *Source:*
 
-#### **B. WebClient (Modern & Reactive)**
+#### **B. WebClient (Modern & Reactive/ Asynchronous)**
 
 `WebClient` is the modern, non-blocking replacement for `RestTemplate`. Even when used in a blocking way (via `.block()`), it provides a more fluent API for complex requests.
 
